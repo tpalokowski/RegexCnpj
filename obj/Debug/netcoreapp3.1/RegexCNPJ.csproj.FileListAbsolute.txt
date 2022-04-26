@@ -1,0 +1,40 @@
+C:\Users\Office\RegexCNPJ\bin\Debug\netcoreapp3.1\RegexCNPJ.exe
+C:\Users\Office\RegexCNPJ\bin\Debug\netcoreapp3.1\RegexCNPJ.deps.json
+C:\Users\Office\RegexCNPJ\bin\Debug\netcoreapp3.1\RegexCNPJ.runtimeconfig.json
+C:\Users\Office\RegexCNPJ\bin\Debug\netcoreapp3.1\RegexCNPJ.runtimeconfig.dev.json
+C:\Users\Office\RegexCNPJ\bin\Debug\netcoreapp3.1\RegexCNPJ.dll
+C:\Users\Office\RegexCNPJ\bin\Debug\netcoreapp3.1\RegexCNPJ.pdb
+C:\Users\Office\RegexCNPJ\obj\Debug\netcoreapp3.1\RegexCNPJ.csprojAssemblyReference.cache
+C:\Users\Office\RegexCNPJ\obj\Debug\netcoreapp3.1\RegexCNPJ.AssemblyInfoInputs.cache
+C:\Users\Office\RegexCNPJ\obj\Debug\netcoreapp3.1\RegexCNPJ.AssemblyInfo.cs
+C:\Users\Office\RegexCNPJ\obj\Debug\netcoreapp3.1\RegexCNPJ.csproj.CoreCompileInputs.cache
+C:\Users\Office\RegexCNPJ\obj\Debug\netcoreapp3.1\RegexCNPJ.dll
+C:\Users\Office\RegexCNPJ\obj\Debug\netcoreapp3.1\RegexCNPJ.pdb
+C:\Users\Office\RegexCNPJ\obj\Debug\netcoreapp3.1\RegexCNPJ.genruntimeconfig.cache
+E:\Meus Documentos\Downloads\SharpCode\RegexCNPJ\bin\Debug\netcoreapp3.1\RegexCNPJ.exe
+E:\Meus Documentos\Downloads\SharpCode\RegexCNPJ\bin\Debug\netcoreapp3.1\RegexCNPJ.deps.json
+E:\Meus Documentos\Downloads\SharpCode\RegexCNPJ\bin\Debug\netcoreapp3.1\RegexCNPJ.runtimeconfig.json
+E:\Meus Documentos\Downloads\SharpCode\RegexCNPJ\bin\Debug\netcoreapp3.1\RegexCNPJ.runtimeconfig.dev.json
+E:\Meus Documentos\Downloads\SharpCode\RegexCNPJ\bin\Debug\netcoreapp3.1\RegexCNPJ.dll
+E:\Meus Documentos\Downloads\SharpCode\RegexCNPJ\bin\Debug\netcoreapp3.1\RegexCNPJ.pdb
+E:\Meus Documentos\Downloads\SharpCode\RegexCNPJ\obj\Debug\netcoreapp3.1\RegexCNPJ.csprojAssemblyReference.cache
+E:\Meus Documentos\Downloads\SharpCode\RegexCNPJ\obj\Debug\netcoreapp3.1\RegexCNPJ.AssemblyInfoInputs.cache
+E:\Meus Documentos\Downloads\SharpCode\RegexCNPJ\obj\Debug\netcoreapp3.1\RegexCNPJ.AssemblyInfo.cs
+E:\Meus Documentos\Downloads\SharpCode\RegexCNPJ\obj\Debug\netcoreapp3.1\RegexCNPJ.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Downloads\SharpCode\RegexCNPJ\obj\Debug\netcoreapp3.1\RegexCNPJ.dll
+E:\Meus Documentos\Downloads\SharpCode\RegexCNPJ\obj\Debug\netcoreapp3.1\RegexCNPJ.pdb
+E:\Meus Documentos\Downloads\SharpCode\RegexCNPJ\obj\Debug\netcoreapp3.1\RegexCNPJ.genruntimeconfig.cache
+D:\Desktop\SharpCode\RegexCnpj\bin\Debug\netcoreapp3.1\RegexCNPJ.exe
+D:\Desktop\SharpCode\RegexCnpj\bin\Debug\netcoreapp3.1\RegexCNPJ.deps.json
+D:\Desktop\SharpCode\RegexCnpj\bin\Debug\netcoreapp3.1\RegexCNPJ.runtimeconfig.json
+D:\Desktop\SharpCode\RegexCnpj\bin\Debug\netcoreapp3.1\RegexCNPJ.runtimeconfig.dev.json
+D:\Desktop\SharpCode\RegexCnpj\bin\Debug\netcoreapp3.1\RegexCNPJ.dll
+D:\Desktop\SharpCode\RegexCnpj\bin\Debug\netcoreapp3.1\RegexCNPJ.pdb
+D:\Desktop\SharpCode\RegexCnpj\obj\Debug\netcoreapp3.1\RegexCNPJ.AssemblyInfoInputs.cache
+D:\Desktop\SharpCode\RegexCnpj\obj\Debug\netcoreapp3.1\RegexCNPJ.AssemblyInfo.cs
+D:\Desktop\SharpCode\RegexCnpj\obj\Debug\netcoreapp3.1\RegexCNPJ.csproj.CoreCompileInputs.cache
+D:\Desktop\SharpCode\RegexCnpj\obj\Debug\netcoreapp3.1\RegexCNPJ.dll
+D:\Desktop\SharpCode\RegexCnpj\obj\Debug\netcoreapp3.1\RegexCNPJ.pdb
+D:\Desktop\SharpCode\RegexCnpj\obj\Debug\netcoreapp3.1\RegexCNPJ.genruntimeconfig.cache
+D:\Desktop\SharpCode\RegexCnpj\obj\Debug\netcoreapp3.1\RegexCnpj.csproj.AssemblyReference.cache
+D:\Desktop\SharpCode\RegexCnpj\obj\Debug\netcoreapp3.1\RegexCnpj.GeneratedMSBuildEditorConfig.editorconfig

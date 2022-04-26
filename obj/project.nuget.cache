@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/5l0qOQPN/Q73lcSOLdSHL7h/XpwEVxW3KAXIEghWD+iyswZCeV095HsOCT1bgOL6tIwFVNpmw0YFkyokcFF1w==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\SharpCode\\RegexCnpj\\RegexCnpj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thais e Thiago\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
